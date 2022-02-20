@@ -42,3 +42,4 @@ You will need these packages if you will run the notebooks locally:
 
 * We can represent that with this diagram
 
+![image](images/3.png)
