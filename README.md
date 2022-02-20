@@ -64,3 +64,5 @@ For example:
 ![image](images/7.png)
 
 Well, the answer is Y equals 2X minus 1. So whenever you see a Y, it's twice the corresponding X minus 1. If you figured it out for yourself, well done, but how did you do that? How would you think you could figure this out? Maybe you can see that the Y increases by 2 every time the X increases by 1. So it probably looks like Y equals 2X plus or minus something. Then when you saw X equals 0 and Y equals minus 1, so you thought hey that the something is a minus 1, so the answer might be Y equals 2X minus 1. 
+
+## How Can Implement That In Tensorflow
