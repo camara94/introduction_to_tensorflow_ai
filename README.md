@@ -10,7 +10,7 @@ However, if you want to run them on your local machine, the ungraded labs and as
 
 <pre>
 <code>
-[git clone https://github.com/https-deeplearning-ai/tensorflow-1-public](git clone https://github.com/https-deeplearning-ai/tensorflow-1-public)
+git clone https://github.com/https-deeplearning-ai/tensorflow-1-public
 </code>
 </pre>
 
