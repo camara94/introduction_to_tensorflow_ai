@@ -72,3 +72,7 @@ Well, the answer is Y equals 2X minus 1. So whenever you see a Y, it's twice the
 ## Intro To Google Colab
 
 [https://www.youtube.com/watch?v=inN8seMm7UI](https://www.youtube.com/watch?v=inN8seMm7UI)
+
+## FAQs about Google Colab (optional)
+
+As mentioned earlier,  you can use Google Colab to follow along with the coding exercises in this course. The previous video showed a quick intro on how to use this environment and here are some [**Frequently Asked Questions**](https://research.google.com/colaboratory/faq.html) in case you want to know more.
