@@ -76,3 +76,9 @@ Well, the answer is Y equals 2X minus 1. So whenever you see a Y, it's twice the
 ## FAQs about Google Colab (optional)
 
 As mentioned earlier,  you can use Google Colab to follow along with the coding exercises in this course. The previous video showed a quick intro on how to use this environment and here are some [**Frequently Asked Questions**](https://research.google.com/colaboratory/faq.html) in case you want to know more.
+
+## Week 1 Resources
+
+That brings you to the end of what you need to look at for Week 1. If you’re eager to learn more, before we go to Week 2, there are some great resources you can check out:
+
+* AI For Everyone is a non-technical course that will help you understand many of the AI technologies we will discuss later in this course, and help you spot opportunities in applying this technology to solve your problems. [https://www.deeplearning.ai/ai-for-everyone/](https://www.deeplearning.ai/ai-for-everyone/s)
