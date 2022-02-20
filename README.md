@@ -61,3 +61,4 @@ You will need these packages if you will run the notebooks locally:
 The machine learning is all about a computer learning the patterns that distinguish things.
 
 For example: 
+![image](images/7.png)
