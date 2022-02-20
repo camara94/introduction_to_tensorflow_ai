@@ -47,3 +47,7 @@ You will need these packages if you will run the notebooks locally:
 ## Machine Learning Paradiagm Compare To Traductionnal paradigm Programming
 
 ![image](images/4.png)
+
+## Activity Recognition
+
+![image](images/5.png)
