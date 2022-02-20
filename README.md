@@ -29,3 +29,7 @@ You will need these packages if you will run the notebooks locally:
     seaborn==0.11.2
 </code>
 </pre>
+
+## Traductionnal paradigm Programming
+
+![image](images/1.png)
