@@ -68,3 +68,7 @@ Well, the answer is Y equals 2X minus 1. So whenever you see a Y, it's twice the
 ## How Can Implement That In Tensorflow
 
 ![image](images/8.png)
+
+## Intro To Google Colab
+
+[https://www.youtube.com/watch?v=inN8seMm7UI](https://www.youtube.com/watch?v=inN8seMm7UI)
