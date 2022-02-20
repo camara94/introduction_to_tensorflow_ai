@@ -55,3 +55,9 @@ You will need these packages if you will run the notebooks locally:
 ## Activity Recognition For Machine Learning
 
 ![image](images/6.png)
+
+## Machine Learning 
+
+The machine learning is all about a computer learning the patterns that distinguish things.
+
+For example: 
