@@ -43,3 +43,7 @@ You will need these packages if you will run the notebooks locally:
 * We can represent that with this diagram
 
 ![image](images/3.png)
+
+## Machine Learning Paradiagm Compare To Traductionnal paradigm Programming
+
+![image](images/4.png)
