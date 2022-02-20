@@ -51,3 +51,7 @@ You will need these packages if you will run the notebooks locally:
 ## Activity Recognition
 
 ![image](images/5.png)
+
+## Activity Recognition For Machine Learning
+
+![image](images/6.png)
