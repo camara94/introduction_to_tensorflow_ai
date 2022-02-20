@@ -15,3 +15,17 @@ However, if you want to run them on your local machine, the ungraded labs and as
 </pre>
 
 If not, please follow the guides [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install git on your operating system. Once you’ve cloned the repo, you can do a git pull once in a while to make sure that you get the latest updates to the notebooks.
+
+## Package In Use
+
+You will need these packages if you will run the notebooks locally:
+
+<pre>
+<code>
+    tensorflow==2.7.0
+    scikit-learn==1.0.1
+    pandas==1.1.5
+    matplotlib==3.2.2
+    seaborn==0.11.2
+</code>
+</pre>
