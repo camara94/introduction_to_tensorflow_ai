@@ -32,4 +32,10 @@ You will need these packages if you will run the notebooks locally:
 
 ## Traductionnal paradigm Programming
 
+If you are programming app 
+
 ![image](images/1.png)
+
+or app for gaming
+
+![image](images/2.png)
