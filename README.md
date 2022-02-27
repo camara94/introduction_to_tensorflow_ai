@@ -97,6 +97,10 @@ That link is more useful
 
 * [https://ai.google/responsibilities/responsible-ai-practices/](https://ai.google/responsibilities/responsible-ai-practices/)
 
-## Understant Sequential in Tensorflow
+## Understant Sequential Layer in Tensorflow
 
 * [https://keras.io/api/models/sequential/](https://keras.io/api/models/sequential/)
+
+## Understant Flatten Layer in Tensorflow
+
+[https://keras.io/api/layers/reshaping_layers/flatten/](https://keras.io/api/layers/reshaping_layers/flatten/)
