@@ -104,3 +104,7 @@ That link is more useful
 ## Understant Flatten Layer in Tensorflow
 
 [https://keras.io/api/layers/reshaping_layers/flatten/](https://keras.io/api/layers/reshaping_layers/flatten/)
+
+## Understant Flatten Dense in Tensorflow
+
+[https://keras.io/api/layers/core_layers/dense/](https://keras.io/api/layers/core_layers/dense/)
