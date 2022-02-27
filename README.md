@@ -96,3 +96,7 @@ Play with a neural network right in the browser at [http://playground.tensorflow
 That link is more useful
 
 * [https://ai.google/responsibilities/responsible-ai-practices/](https://ai.google/responsibilities/responsible-ai-practices/)
+
+## Understant Sequential in Tensorflow
+
+* [https://keras.io/api/models/sequential/](https://keras.io/api/models/sequential/)
