@@ -103,7 +103,7 @@ That link is more useful
 
 ## Understant Flatten Layer in Tensorflow
 
-[https://keras.io/api/layers/reshaping_layers/flatten/](https://keras.io/api/layers/reshaping_layers/flatten/)
+* [https://keras.io/api/layers/reshaping_layers/flatten/](https://keras.io/api/layers/reshaping_layers/flatten/)
 
 ## Understant Flatten Dense in Tensorflow
 
@@ -111,11 +111,11 @@ That link is more useful
 
 ## Understant  what Activations in in Tensorflow
 
-[https://keras.io/api/layers/activations/](https://keras.io/api/layers/activations/)
+* [https://keras.io/api/layers/activations/](https://keras.io/api/layers/activations/)
 
 ### Function ReLu
 
-[https://keras.io/api/layers/activations/#relu-function](https://keras.io/api/layers/activations/#relu-function)
+* [https://keras.io/api/layers/activations/#relu-function](https://keras.io/api/layers/activations/#relu-function)
 
 ### Function Softmax
 
