@@ -85,3 +85,7 @@ That brings you to the end of what you need to look at for Week 1. If you’re e
 * TensorFlow is available at TensorFlow.org, and video updates from the TensorFlow team are at [youtube.com/tensorflow](https://www.youtube.com/tensorflow)
 
 Play with a neural network right in the browser at http://playground.tensorflow.org. See if you can figure out the parameters to get the neural network to pattern match to the desired groups. The spiral is particularly challenging!
+
+## How To Load Dataset In Python
+
+![image](images/9.png)
