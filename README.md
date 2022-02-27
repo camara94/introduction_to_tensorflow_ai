@@ -89,3 +89,10 @@ Play with a neural network right in the browser at [http://playground.tensorflow
 ## How To Load Dataset In Python
 
 ![image](images/9.png)
+
+
+## Responsible AI practices
+
+That link is more useful
+
+* [https://ai.google/responsibilities/responsible-ai-practices/](https://ai.google/responsibilities/responsible-ai-practices/)
