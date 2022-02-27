@@ -122,3 +122,9 @@ That link is more useful
 * [https://keras.io/api/layers/activations/#softmax-function](https://keras.io/api/layers/activations/#softmax-function)
   
 * [https://www.youtube.com/watch?v=LLux1SW--oM](https://www.youtube.com/watch?v=LLux1SW--oM)
+
+## Arrêter l'Entainement de mon Modèle
+
+Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atteint la performance souhaitée.
+
+![image](images/10.png)
