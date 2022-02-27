@@ -132,3 +132,8 @@ Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atte
 ### Comment l'Utiliser
 
 ![image](images/11.png)
+
+### Resouce on_epoch_end Callback
+
+* [https://www.tensorflow.org/guide/keras/custom_callback](https://www.tensorflow.org/guide/keras/custom_callback)
+
