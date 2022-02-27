@@ -112,3 +112,7 @@ That link is more useful
 ## Understant  what Activations in in Tensorflow
 
 [https://keras.io/api/layers/activations/](https://keras.io/api/layers/activations/)
+
+### Function ReLu
+
+[https://keras.io/api/layers/activations/#relu-function](https://keras.io/api/layers/activations/#relu-function)
