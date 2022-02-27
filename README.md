@@ -116,3 +116,7 @@ That link is more useful
 ### Function ReLu
 
 [https://keras.io/api/layers/activations/#relu-function](https://keras.io/api/layers/activations/#relu-function)
+
+### Function Softmax
+
+[https://keras.io/api/layers/activations/#softmax-function](https://keras.io/api/layers/activations/#softmax-function)
