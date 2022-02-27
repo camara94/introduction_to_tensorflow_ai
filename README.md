@@ -128,3 +128,7 @@ That link is more useful
 Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atteint la performance souhaitée.
 
 ![image](images/10.png)
+
+### Comment l'Utiliser
+
+![image](images/11.png)
