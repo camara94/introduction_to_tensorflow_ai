@@ -119,4 +119,6 @@ That link is more useful
 
 ### Function Softmax
 
-[https://keras.io/api/layers/activations/#softmax-function](https://keras.io/api/layers/activations/#softmax-function)
+* [https://keras.io/api/layers/activations/#softmax-function](https://keras.io/api/layers/activations/#softmax-function)
+  
+* [https://www.youtube.com/watch?v=LLux1SW--oM](https://www.youtube.com/watch?v=LLux1SW--oM)
