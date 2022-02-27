@@ -108,3 +108,7 @@ That link is more useful
 ## Understant Flatten Dense in Tensorflow
 
 [https://keras.io/api/layers/core_layers/dense/](https://keras.io/api/layers/core_layers/dense/)
+
+## Understant  what Activations in in Tensorflow
+
+[https://keras.io/api/layers/activations/](https://keras.io/api/layers/activations/)
