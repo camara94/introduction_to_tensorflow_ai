@@ -152,7 +152,7 @@ Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atte
 
 ![image](images/16.png)
 
-## More Details For Con2D
+## More Details For Conv2D
 
 [https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 
