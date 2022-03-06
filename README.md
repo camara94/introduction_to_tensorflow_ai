@@ -143,5 +143,6 @@ Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atte
 
 ![image](images/13.png)
 
+![image](images/14.png)
 
 
