@@ -150,6 +150,8 @@ Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atte
 
 ![image](images/15.png)
 
+![image](images/16.png)
+
 ## Useful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D)
