@@ -137,3 +137,8 @@ Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atte
 
 * [https://www.tensorflow.org/guide/keras/custom_callback](https://www.tensorflow.org/guide/keras/custom_callback)
 
+## What Convolution Network Does ?
+
+![image](images/12.png)
+
+
