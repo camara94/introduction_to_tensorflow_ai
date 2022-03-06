@@ -148,7 +148,7 @@ Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atte
 
 ## How To Do Convolution Neural Network
 
-![image](images/14.png)
+![image](images/15.png)
 
 ## Useful Link
 
