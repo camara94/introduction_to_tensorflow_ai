@@ -152,6 +152,10 @@ Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atte
 
 ![image](images/16.png)
 
+## More Details For Con2D
+
+[https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+
 ## Useful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D)
