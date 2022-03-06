@@ -162,3 +162,7 @@ Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atte
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D)
 
+## Link To Better Understanding The MaxPooling 
+
+* [https://lodev.org/cgtutor/filtering.html](https://lodev.org/cgtutor/filtering.html)
+
