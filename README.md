@@ -209,3 +209,5 @@ You can instanciate the **ImageGenerator** like that.
 
 ## Train The Model
 
+![image](images/22.png)
+
