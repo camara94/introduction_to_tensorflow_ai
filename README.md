@@ -237,3 +237,7 @@ You can instanciate the **ImageGenerator** like that.
 ![image](images/25.png)
 ![image](images/26.png)
 ![image](images/27.png)
+
+### Binary Crossentropy
+
+* [https://gombru.github.io/2018/05/23/cross_entropy_loss/](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
