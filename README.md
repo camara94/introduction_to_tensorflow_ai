@@ -169,3 +169,7 @@ Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atte
 ## Image Generator Architecture
 
 ![image](images/17.png)
+
+## Feature Of The Image Generator
+
+One feature of the image generator you can point 
