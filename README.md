@@ -226,3 +226,5 @@ You can instanciate the **ImageGenerator** like that.
 * **epochs**: numbers of epochs to train for
 
 * **validation_data**: here we specify the validation step
+
+* **validation_epochs**: we set step per epoch.
