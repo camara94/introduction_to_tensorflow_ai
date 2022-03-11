@@ -236,3 +236,4 @@ You can instanciate the **ImageGenerator** like that.
 ![image](images/24.png)
 ![image](images/25.png)
 ![image](images/26.png)
+![image](images/27.png)
