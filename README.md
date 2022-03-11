@@ -234,3 +234,4 @@ You can instanciate the **ImageGenerator** like that.
 ## Example On Colab
 
 ![image](images/24.png)
+![image](images/25.png)
