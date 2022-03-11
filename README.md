@@ -185,3 +185,5 @@ You can instanciate the **ImageGenerator** like that.
 ![image](images/19.png)
 
 * Parameter **rescale**: it allow us to scale the pixels of image
+
+* method **flow_from_directory()**: it allow us to load the images from a directory or sub-directory
