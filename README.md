@@ -247,3 +247,7 @@ You can instanciate the **ImageGenerator** like that.
 * [https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
   
 * [https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/RMSprop](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/RMSprop)
+
+## Binary Classification
+
+* [https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s](https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s)
