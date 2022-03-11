@@ -228,3 +228,5 @@ You can instanciate the **ImageGenerator** like that.
 * **validation_data**: here we specify the validation step
 
 * **validation_epochs**: we set step per epoch.
+
+* **verbose**: to display how must to display
