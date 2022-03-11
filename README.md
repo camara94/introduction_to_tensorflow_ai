@@ -220,3 +220,5 @@ You can instanciate the **ImageGenerator** like that.
 ![image](images/23.png)
 
 * **train_generator**: stream images from the train director
+
+* **steps_per_epoch**: we set step per epoch.
