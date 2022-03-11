@@ -187,3 +187,4 @@ You can instanciate the **ImageGenerator** like that.
 * Parameter **rescale**: it allow us to scale the pixels of image
 
 * method **flow_from_directory()**: it allow us to load the images from a directory.
+  >The common error the people make is to pointe this method to sub-directory.
