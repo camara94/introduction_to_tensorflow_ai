@@ -188,3 +188,5 @@ You can instanciate the **ImageGenerator** like that.
 
 * method **flow_from_directory()**: it allow us to load the images from a directory the name of the sub-directory will the label of the images.
   >The common error the people make is to pointe this method to sub-directory.
+
+* parameter **target_size**: it is a tuple that allow us to resize the images they are not a same size
