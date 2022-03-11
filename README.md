@@ -241,3 +241,7 @@ You can instanciate the **ImageGenerator** like that.
 ### Binary Crossentropy
 
 * [https://gombru.github.io/2018/05/23/cross_entropy_loss/](https://gombru.github.io/2018/05/23/cross_entropy_loss/)
+
+### Optimizer
+
+* [https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
