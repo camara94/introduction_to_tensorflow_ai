@@ -166,3 +166,5 @@ Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atte
 
 * [https://lodev.org/cgtutor/filtering.html](https://lodev.org/cgtutor/filtering.html)
 
+## Image Generator Architecture
+
