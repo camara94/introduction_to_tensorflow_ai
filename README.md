@@ -177,3 +177,9 @@ One feature of the image generator you can pointe in one particular directory or
 ## How To Import Image Generator
 
 ![image](images/18.png)
+
+## How To Instanciate the Image Generator
+
+You can instanciate the **ImageGenerator** like that.
+
+![image](images/19.png)
