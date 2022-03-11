@@ -201,4 +201,6 @@ You can instanciate the **ImageGenerator** like that.
 
 ![image](images/20.png)
 
-> **Note** when you use **binary** classifier the best **activation function** is **sigmoid**s
+> **Note** when you use **binary** classifier the best **activation function** is **sigmoid**
+
+## How It Look Like After Training
