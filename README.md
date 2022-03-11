@@ -217,3 +217,4 @@ You can instanciate the **ImageGenerator** like that.
 
 ## Train Step
 
+![image](images/23.png)
