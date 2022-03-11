@@ -196,3 +196,6 @@ You can instanciate the **ImageGenerator** like that.
 * parameter **batch_size**: it allows us to train size by size.
 
 * parameter **class_mode**: it allows us to indicate for example label wil **binary** tow **classes**
+
+## Code To detection After Use Image Generator
+
