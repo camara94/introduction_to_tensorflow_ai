@@ -230,3 +230,7 @@ You can instanciate the **ImageGenerator** like that.
 * **validation_epochs**: we set step per epoch.
 
 * **verbose**: to display how must to display
+
+## Example On Colab
+
+![image](images/24.png)
