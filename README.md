@@ -199,3 +199,4 @@ You can instanciate the **ImageGenerator** like that.
 
 ## Code To detection After Use Image Generator
 
+![image](images/20.png)
