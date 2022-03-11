@@ -215,3 +215,5 @@ You can instanciate the **ImageGenerator** like that.
 
 [https://youtu.be/zLRB4oupj6g](https://youtu.be/zLRB4oupj6g)
 
+## Train Step
+
