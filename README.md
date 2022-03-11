@@ -245,3 +245,5 @@ You can instanciate the **ImageGenerator** like that.
 ### Optimizer
 
 * [https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
+  
+* [https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/RMSprop](https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/RMSprop)
