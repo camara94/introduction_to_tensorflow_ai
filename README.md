@@ -173,3 +173,7 @@ Cette fonction me permet d'arrêter l'entrainement de mon modèle lorsque j'atte
 ## Feature Of The Image Generator
 
 One feature of the image generator you can pointe in one particular directory or sub directory that you generate your image. 
+
+## How To Import Image Generator
+
+![image](images/18.png)
